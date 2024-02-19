@@ -10,8 +10,11 @@ Neste repositorio havéra todos os projetos freelancer e um respectivo comentár
 
 ## Índices
 - [Xml e Exel](#XmleExel)
+- [Csv e Exe](#CsveExel)
 
 ## Projetos
 ### Xml e Exel
-Um aplicação simples e dinâmica que atende a necessidade de extrair dados do xml fornecidos no diretorio "nfs". A logica implementada é simples e direta leia o diretorio, entre no arquivo xml, extraia os dados e armazeni-os em uma tabela no exel.
+Pegando arquivos fornecidos em formato Xml(notas fiscais), extraindo informações solicitadas pelo cliente e armazenando-as em uma planilha no exel.
 
+### Csv e Exel
+Passando os arquivos fornecidos no formato csv para xlsx. Além do enviou via email dos respectivos dados. 
